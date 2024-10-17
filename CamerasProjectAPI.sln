@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamerasProjectAPI", "CamerasProjectAPI\CamerasProjectAPI.csproj", "{6AC5E4CA-08FD-4A95-B710-0B7B6A0A0B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC5E4CA-08FD-4A95-B710-0B7B6A0A0B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC5E4CA-08FD-4A95-B710-0B7B6A0A0B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC5E4CA-08FD-4A95-B710-0B7B6A0A0B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC5E4CA-08FD-4A95-B710-0B7B6A0A0B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4516E10-F915-46CA-98EA-2EE248932CC7}
+	EndGlobalSection
+EndGlobal
